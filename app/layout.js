@@ -1,0 +1,1 @@
+import './globals.css';export const metadata={title:'StayKerala | Slow escapes',description:'Discover Kerala-inspired boutique stays'};export default function Layout({children}){return <html lang="en"><body>{children}</body></html>}
