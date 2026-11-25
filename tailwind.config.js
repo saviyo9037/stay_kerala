@@ -1,1 +1,1 @@
-export default {content:['./index.html','./src.jsx'],theme:{extend:{}},plugins:[]}
+export default {content:['./app/**/*.{js,jsx}'],theme:{extend:{}},plugins:[]}
