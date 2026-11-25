@@ -1,2 +1,2 @@
 # StayKerala
-React + Vite + Tailwind frontend concept. Run npm install, npm run dev. Demo booking and contact forms do not send or store data. Images are remote illustrative stock photos, not verified Kerala properties. No backend or payments.
+Next.js App Router + JavaScript + Tailwind CSS. Run npm install and npm run dev. Frontend only; booking and enquiry are demonstrations. Photos and properties are illustrative.
